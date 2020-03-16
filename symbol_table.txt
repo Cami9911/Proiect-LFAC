@@ -1,0 +1,11 @@
+int a 5
+float b 1.000000
+int c 2
+int f 5
+int m 0
+int n 6
+string s1 empty_string
+string s2 empty_string
+string s3 string
+int vector1 0
+int vector2 0
